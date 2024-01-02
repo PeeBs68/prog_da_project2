@@ -1,5 +1,5 @@
 Readme for Project2 in Programming for Data Analysis
-
+***
 Author: Phelim Barry
 
 The contents of this repository are available at https://github.com/PeeBs68/prog_da_project2
@@ -10,24 +10,23 @@ Python v3.11.4
 VS Code: v1.82.2   
 Jupyter Notebook: v6.5.4
 
-
-# Table of Contents
-
-1. [Introduction](#Introduction)
-2. [Requirements](#Requirements)
-etc...
-
+***
 
 ### Introduction
-An analysis of paleo to present climate focusing on areas such as CO2 levels, temperature anomolies and methane levesls etc...
+The purpose of this notebook is to perform and analysis of paleo to present climate data focusing on areas such as CO2 levels, temperature anomolies and methane levesls. It will also present an analysis of Irish Rainfall and Temperature.
 
-### Requirements
 
-### CO2 and Temp Analysis
-In this section we look at the relationship netween CO2 levels and Temperature Anomolies for a date range bwtween 800000BC and present...
+### CO2 vs Temperature Anomoly
+In this section we look at the relationship netween CO2 levels and Temperature Anomolies for a date range between 800000 BC and present (2023).
 
-### Methane Levels Analysis
+### Global CH4 (Methane) Levels Analysis
+Next we will look at CH4 levels globally and investigate it's relationship with CO2 and Temperature Anomolies.
 
-### Section3
+### Irish Rainfall and Temperature Analysis
+In this section we perform an analysis of Irish Data, in particular Rainfall levles and Temperature.
 
-### References/Appendix etc
+### Data Export
+We firstly fuse the data from multiple data sources to a single dataframe and then export it to JSON and CSV file formats.
+
+### Future Predictions
+This section is to show how the future looks in terms of Temperature Anomoly based on current trends in CO2 levels. 
