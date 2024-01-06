@@ -16,8 +16,11 @@ Jupyter Notebook: v6.5.4
 The purpose of this notebook is to perform and analysis of paleo to present climate data focusing on areas such as CO2 levels, temperature anomolies and methane levesls. It will also present an analysis of Irish Rainfall and Temperature.
 
 
-### CO2 vs Temperature Anomoly
-In this section we look at the relationship netween CO2 levels and Temperature Anomolies for a date range between 800000 BC and present (2023).
+### CO2 Levels Analysis
+In this section we look at CO2 levels for a date range between 800000 BC and present (2023).
+
+### Temperature Anomoly Analysis
+In this section we look at the Temperature Anomoly for a date range between 800000 BC and present (2023) where the measurement is the recorded temperature against the average temperature for the last 1000 years.
 
 ### Global CH4 (Methane) Levels Analysis
 Next we will look at CH4 levels globally and investigate it's relationship with CO2 and Temperature Anomolies.
@@ -28,5 +31,5 @@ In this section we perform an analysis of Irish Data, in particular Rainfall lev
 ### Data Export
 We firstly fuse the data from multiple data sources to a single dataframe and then export it to JSON and CSV file formats.
 
-### Future Predictions
+### Further Analysis and Future Predictions
 This section is to show how the future looks in terms of Temperature Anomoly based on current trends in CO2 levels. 
