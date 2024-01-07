@@ -32,4 +32,4 @@ In this section we perform an analysis of Irish Data, in particular Rainfall lev
 We firstly fuse the data from multiple data sources to a single dataframe and then export it to JSON and CSV file formats.
 
 ### Further Analysis and Future Predictions
-This section is to show how the future looks in terms of Temperature Anomoly based on current trends in CO2 levels. 
+This section discusses the results in more details and shows how the future looks based on current trends in CO2 levels. 
