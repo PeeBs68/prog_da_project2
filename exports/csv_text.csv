@@ -1,7 +1,7 @@
 Column Descriptions,
 ----,----
 temp_date,Date of Temperature Reading
-temp_anom,Temperature Anomoly Value
+temp_anom,Temperature Anomaly Value
 co2_date,Date of CO2 Reading
 co2_reading,CO2 Value
 ch4_date,Date of CH4 Reading
