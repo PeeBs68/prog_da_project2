@@ -8,9 +8,10 @@ This repository contains a Jupyter noyebook titled **'project2.ipynb'** which pe
 The purpose of this notebook is to perform and analysis of paleo to present climate data focusing on areas such as CO2 levels, temperature anomolies and methane levesls. It will also present an analysis of Irish Rainfall and Temperature.
 
 This notebook walks through the process of:
-1. **Loading and **cleansing data from multiple sources
-2. **Plotting the data using appropriate charts
-3. **Combining data sets
+1. **Loading** and **cleansing** data from multiple sources
+2. **Plotting** the data using appropriate charts
+3. **Combining** data sets
+4. **Exporting** data to multiple file types
 
 ## **Requirements**
 
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/PeeBs68/...
+git clone https://github.com/PeeBs68/prog_da_project2
 ```
 
 2. Launch Jupyter Notebook:
