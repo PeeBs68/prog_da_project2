@@ -52,7 +52,7 @@ git clone https://github.com/PeeBs68/prog_da_project2
 jupyter notebook project2.ipynb
 ```
 
-3. Open the notebook in you browser and run the cells to perform the analysis
+4. Open the notebook in you browser and run the cells to perform the analysis
 
 ### **Notebook Workflow**
 
